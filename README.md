@@ -9,7 +9,7 @@ A comprehensive program for gravity interpretation:
 It is written in Matlab 2013b environment with a Graphical User Interface (GUI)
 
 Download the following files:
----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 compactInversion.m            | main algorithm for compact inversion
 Extract.fig                   | 
 Extract.m                     | GUI menu for extract data
