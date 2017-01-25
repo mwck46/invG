@@ -1,7 +1,7 @@
 #invG
 
 A comprehensive program for gravity interpretation:
--Extraction field data in '.gxf' formmat 
+Extraction field data in '.gxf' formmat 
 -forward modelling
 -inversion 
 -benchmark testing with synthetic signal
