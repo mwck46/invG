@@ -72,5 +72,6 @@ gR = 2*G*rho*( (pi*t/2) + (z2*pheta4-z1*pheta3) + (x-s2).*(pheta4-pheta3)*sin(be
 
 %Left slab - Right slab
 g = (gL - gR)*10^5;   %change from ms^-2 to mGal
+
 end
 
