@@ -79,7 +79,7 @@ function varargout = Synthetic_OutputFcn(hObject, eventdata, handles)
 varargout{1} = handles.output;
 
 
-%%%%%%%%%%%%%%%%%%%%% Panel1: 2D Dyke %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%% Panel1: 2D Dyke %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function edit_D_x1_Callback(hObject, eventdata, handles)
 % hObject    handle to edit_D_x1 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
