@@ -19,7 +19,7 @@ function varargout = Extract(varargin)
 %      instance to run (singleton)".
 %
 % See also: GUIDE, GUIDATA, GUIHANDLES
-
+%
 % Edit the above text to modify the response to help Extract
 
 % Last Modified by GUIDE v2.5 03-May-2015 21:18:37
