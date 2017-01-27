@@ -1,0 +1,3 @@
+Reference files:
+
+gxf_details.pdf               | explain '.gxf' format
