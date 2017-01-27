@@ -6,6 +6,26 @@ It can do the following things: (1) Extraction field data stored in '.gxf' formm
 
 It is written in Matlab 2013b
 
+Reference
+--------------------------------------------------------------------------------------------
+Inversion algorithm:
+
+Last, B. J., & Kubik, K. (1983). Compact gravity inversion. Geophysics, 48(6), 713-721
+
+Design of GUI:
+
+Stocco, S., Godio, A., & Sambuelli, L. (2009). Modelling and compact inversion of magnetic data: A Matlab
+code. Computers & Geosciences, 35(10), 2111-2118.
+
+Analytical formula of simple shaped anomalous mass:
+
+Telford, W. M., & Sheriff, R. E. (1990). Applied geophysics (2nd Edition). Cambridge university press.
+
+
+
+
+
+
 Before Start
 ---------------------------------------------------------------------------------------------
 Download all the following files. Functions of each file is stated in 'README.txt'
